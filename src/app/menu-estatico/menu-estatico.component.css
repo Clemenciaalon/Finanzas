@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+.logotipo-dependencia {
+  height: 92px;
+  width: 185px;
+}
+.navbar {
+  height: 92px;
+}
+.navlink:hover {
+  background-color: rgb(6, 4, 107);
+}
+
+.navbar-custom {
+  color: #ffffff;
+  background-color: rgb(6, 4, 107);
+  height: 50px;
+}
+
+.image {
+  height: 90px;
+  width: 155px;
+  margin: 0px;
+}
