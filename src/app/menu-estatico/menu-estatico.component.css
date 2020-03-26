@@ -4,7 +4,7 @@
   width: 185px;
 }
 .navbar {
-  height: 92px;
+  height: 120px;
 }
 .navlink:hover {
   background-color: rgb(6, 4, 107);
@@ -17,7 +17,18 @@
 }
 
 .image {
-  height: 90px;
+  height: 50px;
   width: 155px;
   margin: 0px;
+}
+
+.menu {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+.menu li {
+  margin: 2px;
+  padding: 2px;
+  float: left;
 }

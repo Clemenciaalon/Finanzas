@@ -6,13 +6,15 @@ import { AppComponent } from "./app.component";
 import { MenuDiamanteComponent } from "./menu-diamante/menu-diamante.component";
 import { MenuEstaticoComponent } from "./menu-estatico/menu-estatico.component";
 import { PantallaPrincipalComponent } from "./pantalla-principal/pantalla-principal.component";
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MenuDiamanteComponent,
     MenuEstaticoComponent,
-    PantallaPrincipalComponent
+    PantallaPrincipalComponent,
+    LoginComponent
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],

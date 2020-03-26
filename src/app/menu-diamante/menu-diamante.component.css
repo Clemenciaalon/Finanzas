@@ -92,7 +92,9 @@ ul {
   left: 75%;
 }
 .btn-down {
-  background: #3f7aa3;
+  background-image: url("../../assets/direccion.jpg");
+  background-size: 20rem;/*jugar con propiedad para el tamaño de la imagen*/
+  background-repeat: no-repeat;
   bottom: 45%;
   left: 50%;
 }
